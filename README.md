@@ -22,8 +22,8 @@ A simple Python application with a Tkinter GUI that solves the “month‑day”
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/month-day-puzzle.git
-   cd month-day-puzzle
+   git clone https://github.com/QuellaMC/PuzzleSolver.git
+   cd PuzzleSolver
    ```
 2. (Optional) Create and activate a virtual environment:
 
@@ -35,7 +35,7 @@ A simple Python application with a Tkinter GUI that solves the “month‑day”
 ## Usage
 
 ```bash
-python puzzle_gui.py
+python solver.py
 ```
 
 1. Enter a month (1–12) and a day (1–31) in the GUI fields.
@@ -44,7 +44,7 @@ python puzzle_gui.py
 
 ## File Structure
 
-* `puzzle_gui.py` – Main application script.
+* `solver.py` – Main application script.
 * `README.md` – This file.
 
 ## License
